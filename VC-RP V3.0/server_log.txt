@@ -1,7 +1,7 @@
 
 ----------
 Loaded log file: "server_log.txt".
-----------
+----------ff
 
 SA-MP Dedicated Server
 ----------------------
